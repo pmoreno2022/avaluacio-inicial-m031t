@@ -66,12 +66,12 @@
     Resposta d'a:
 
 
-    -
+    -Nose
 
     Resposta de b:
 
 
-    -
+    -Nose
 
 9. Feu un programa, amb el llenguatge de programació que vulgueu, que calculi l’àrea d’un quadrat i mostri el resultat per pantalla.
 
